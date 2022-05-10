@@ -2,6 +2,6 @@ import { helloStarter } from '$utils/log';
 
 // Starter example. Check the comments!
 document.addEventListener('DOMContentLoaded', () => {
-  const name = 'John Doe';
+  const name = 'Fabiano Alves';
   helloStarter(name);
 });
