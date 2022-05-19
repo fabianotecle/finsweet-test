@@ -30,7 +30,7 @@ else {
   esbuild
     .serve(
       {
-        servedir: buildDirectory,
+        servedir: 'public',
         port: 3000,
       },
       defaultSettings
